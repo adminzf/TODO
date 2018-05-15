@@ -5,7 +5,7 @@
 1. [简介](#简介)
   - [平台](#平台)
   - [语言特点](#语言特点)
-  - [JDK 安装](#JDK 安装)
+  - [JDK安装](#JDK安装)
 2. [基本语法](基本语法.md)
 
 
@@ -34,7 +34,7 @@ Java分为三个体系`JavaSE`(Java2 Platform Standard Edition，java平台标�
 Java是一种`简单`的，`面向对象`的，`分布式`的，`解释型`的，`健壮安全`的，`结构中立`的，`可移植`的，`性能优异`、`多线程的动态语言`。
 
 
-## JDK 安装
+## JDK安装
 
 
 [JDK 8.0.1440.1下载](https://www.baidu.com/link?url=h7Gyi4Psx3c6XDAxvHvulMpTasZptKHbtmUxwlvT0ZjG7TjJdni2SSOo1goOk19OtaOJF1rjc5pC_1WyhM_pUt1sD1eBubWA6R4UexrSQhy&wd=&eqid=9c7ad4780000e361000000045af05482)
